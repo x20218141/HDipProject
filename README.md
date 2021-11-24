@@ -23,7 +23,7 @@ At the Bottom you will see message that is sent back if the phrase is wrong, set
 
 ## *Deleting / Changing the sentences/Pharses*
 
-1. To change the Sentences / Phrases that trigger the text you just need to click the pink box beside "get messageText =" and enter the Sentence/Phrase there and enter the extact same Sentence/Phrase in the pink box beside "set messageText to". Do this for all of them.
+1. To change the Sentences / Phrases that trigger the text you just need to click the pink box beside "get messageText =" and enter the Sentence/Phrase there and enter the extact same Sentence/Phrase in the pink box beside "set messageText to". Do this for all of them. *Please note that this is case sensitive, if you text the app and have a missing capital letter, comma or a space at the end it will not fuction correctly *
 
 2. To delete 1 or more of the text functions, Click on the blue cog wheel that is between "do" & "if" at the top of the blocks. Then for example if removing the last text function. Just drag the bottom "else if" out of the "if" block. The block related to that bottom will be left detached from the remaining blocks. Just drag the diseired blocks over to the trash icon to remove them. <br /> <br />
 
@@ -39,7 +39,9 @@ At the Bottom you will see message that is sent back if the phrase is wrong, set
 
 ## *Installing the App on the your Device*
 
-1.
+1. Once you have the app tested and working as desired you can then install the app on the device. When in the project click on the Build dropdown and then Android App (.apk).
+
+2. Once it has finished Compling and Building the app it will show you two options. You can scan a QR code, this will bring you to the download and you can then install it on the phone. *Please note you may need to allow installs from unknown sources on the Android device* or you can download the .apk file and then put it on the device and then install it.
 
 
 
