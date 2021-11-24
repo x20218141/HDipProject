@@ -6,7 +6,7 @@
 
 ## *Upload the Project to MIT App Inventor;*
 
-1. Download the Project.aia file found in the code section on github. You can dowload it as a zip by clicking on code, then download zip.
+1. Download the ProjectUploadForGit.aia file found in the code section on github. You can dowload it as a zip by clicking on code, then download zip.
 
 2. Extract the dowloaded zip folder by right clicking on the file and selecting extract all. 
 
@@ -42,8 +42,3 @@ At the Bottom you will see message that is sent back if the phrase is wrong, set
 1. Once you have the app tested and working as desired you can then install the app on the device. When in the project click on the Build dropdown and then Android App (.apk).
 
 2. Once it has finished Compling and Building the app it will show you two options. You can scan a QR code, this will bring you to the download and you can then install it on the phone. *Please note you may need to allow installs from unknown sources on the Android device* or you can download the .apk file and then put it on the device and then install it.
-
-
-
-
-
