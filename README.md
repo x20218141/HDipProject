@@ -43,7 +43,7 @@ At the Bottom of the page you will see a message that is sent back if the phrase
 
 ## *Installing the App on the your Device*
 
-1. Once you have the app tested and working as desired you can then install the app on "Phone 1". When in the project on MIT App Inventor, click on the Build dropdown and then Android App (.apk).
+1. Once you have the app tested and working as desired you can then install the app on "Phone 1". When in the "Project" on MIT App Inventor, click on the "Build" dropdown and then "Android App (.apk)".
 
 2. Once it has finished Compling and Building the app it will show you two options. You can scan a QR code, this will bring you to the download and you can then install it on the phone. <br /> 
 
