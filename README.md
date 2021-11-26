@@ -35,9 +35,9 @@ At the Bottom of the page you will see a message that is sent back if the phrase
 
 1. Firstly you will need to download the non "Play Store" version of the MIT AI2 Companion app. You can do this by clicking [here](http://ai2.appinventor.mit.edu/companions/MITAI2Companion.apk) on the device you want to install the app for testing ("Phone 1"). When signed-in to the MIT App Inventor page you can also click on the Help dropdown, then Companion Information and Scan the QR code provided there and install it from there.
 
-2. Once the MIT AI2 Comanion app is installed, open it. Then go to the Connect dropdown found once signed in to the MIT App Inventor page, *Please note you should have the project opened in there at this point.* Click on Connect, then AI Companion, then either type the code shown there in to the MIT AI2 Compnaion app or scan the QR with the same app that is shown.
+2. Once the MIT AI2 Comanion app is installed, open it. Then go to the "Connect" dropdown found once signed in to the MIT App Inventor page, *Please note you should have the project opened in there at this point.* Click on "Connect", then AI Companion, then either type the code shown there in to the MIT AI2 Compnaion app or scan the QR with the same app that is shown.
 
-3. Once step 2 is done the app should be displayed on your device, you can then test the fuctionality.
+3. Once step 2 is done the app should be displayed on your device, you can then test the functionality.
 
 4. To test the device, text "Phone 1" the sentence / phrase you have defined and it should text back the current latitude, longitude and address of where the device is. <br /> <br />
 
