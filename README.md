@@ -6,9 +6,9 @@
 
 ## *Upload the Project to MIT App Inventor;*
 
-1. Download the ProjectUploadForGit.aia file found in the code section on github. You can dowload it as a zip by clicking on code, then download zip.
+1. Download the ProjectUploadForGit.aia file found in the "code" section on github. You can dowload it as a zip by clicking on code, then downnload zip.
 
-2. Extract the dowloaded zip folder by right clicking on the file and selecting extract all. 
+2. Extract the downloaded zip folder by right clicking on the file and selecting extract all. 
 
 3. Then, go to the MIT App Inventors home page found [here](https://appinventor.mit.edu/) and click on "Create Apps!". Then sign up/in using a gmail account. 
 
