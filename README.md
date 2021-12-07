@@ -60,3 +60,5 @@ At the Bottom of the page you will see a message that is sent back if the phrase
 4. "Phone 1" also needs to have a sim card with credit so it can send a text when required.
 
 5. "Phone 1" needs to have Location Sensor turned on.
+
+*Please note you should hide "Phone 1" out of sight so it is not easily found. The device should also be connected to power to ensure it is always on.*
