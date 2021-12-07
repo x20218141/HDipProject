@@ -6,7 +6,7 @@
 
 ## *Upload the Project to MIT App Inventor;*
 
-1. Download the ProjectUploadForGit.aia file found in the "Code" section on the top of this github page. You can download it as a zip by clicking on code, then "Download zip".
+1. Download the ProjectUploadForGit.aia file found in the "Code" section on the top of this github page. You can download it as a zip by clicking on "Code", then "Download zip".
 
 2. Extract the downloaded zip folder by right clicking on the file and selecting "Extract all". 
 
