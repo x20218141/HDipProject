@@ -1,6 +1,6 @@
 # **Car Location App**
 
-##### **Please note in order to use this App you need an Android phone (called "Phone 1"). "Phone 1" should have a sim card with credit to allow it to send a text and Location sensor turned on. To also ensure that the location is accurate, you may need to turn on Google precision locations services are enabled. You also need to have another Phone that is able to text "Phone 1". You will also need a gmail account to sign in to MIT App Inventor to allow you to edit the app.** <br /> <br />
+##### **Please note in order to use this App you need an Android phone (called "Phone 1"). "Phone 1" should have a sim card with credit to allow it to send a text and Location sensor turned on. To also ensure that the location is accurate, you may need to turn on Google precision location services are enabled. You also need to have another Phone that is able to text "Phone 1". You will also need a gmail account to sign in to MIT App Inventor to allow you to edit the app.** <br /> <br />
 
 ## *To set up this project on your own Android Phone, along with testing it and altering it you need to follow the below instructions;* <br /><br />
 
