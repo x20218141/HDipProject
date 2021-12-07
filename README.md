@@ -41,7 +41,7 @@ At the Bottom of the page you will see a message that is sent back if the phrase
 
 4. To test the device, text "Phone 1" the sentence / phrase you have defined and it should text back the current latitude, longitude and address of where the device is. <br /> <br />
 
-## *Installing the App on the your Device*
+## *Installing the App on your Device*
 
 1. Once you have the app tested and working as desired you can then install the app on "Phone 1". When in the "Project" on MIT App Inventor, click on the "Build" dropdown and then "Android App (.apk)".
 
