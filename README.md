@@ -18,7 +18,7 @@
 
 1. When in the Project that you just uploaded in MIT App Inventor, click on "Blocks" on the top right of the screen. You will then see all the blocks that make the App function in the middle of the screen. 
 
-2. There are currently 5 Sentences / Phrases set up here. To add a mobile number for each phrase click on the pink box that is next to "Set TextMe.PhoneNumber to" (in green) then enter your mobile number in the following format "+3538512345678". Do this for all the Sentences / Phrases you want to use. Only one mobile number can be used per phrase. Each text function is in a block of "if"/"else if" and "then".
+2. There are currently 5 Sentences / Phrases set up here. To add a mobile number for each phrase click on the pink box that is next to "Set TextMe.PhoneNumber to" (in green) then enter your mobile number in the following format "+353851234567". Do this for all the Sentences / Phrases you want to use. Only one mobile number can be used per phrase. Each text function is in a block of "if"/"else if" and "then".
 At the Bottom of the page you will see a message that is sent back if the phrase is wrong. Enter your own mobile number for this phrase as it will be used to test and ensure the app is working if the wrong phrase is sent. <br />
 
 #### *Please note that you can have a different mobile number for each phrase, this can be used to have multiple mobile numbers that can text the app and recieve the devices location.* <br /> <br />
